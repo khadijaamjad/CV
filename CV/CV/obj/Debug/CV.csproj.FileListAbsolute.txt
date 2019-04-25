@@ -1,0 +1,6 @@
+c:\users\amuni\documents\visual studio 2013\Projects\CV\CV\bin\CV.dll.config
+c:\users\amuni\documents\visual studio 2013\Projects\CV\CV\bin\CV.dll
+c:\users\amuni\documents\visual studio 2013\Projects\CV\CV\bin\CV.pdb
+c:\users\amuni\documents\visual studio 2013\Projects\CV\CV\obj\Debug\CV.csprojResolveAssemblyReference.cache
+c:\users\amuni\documents\visual studio 2013\Projects\CV\CV\obj\Debug\CV.dll
+c:\users\amuni\documents\visual studio 2013\Projects\CV\CV\obj\Debug\CV.pdb
